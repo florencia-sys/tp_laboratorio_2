@@ -1,6 +1,0 @@
-C:\Users\flors\source\repos\Sanchez.MariaFlorencia.2A.TPFinal\Sanchez.MariaFlorencia.2A.TPFinal\bin\x64\Debug\Sanchez.MariaFlorencia.2A.TPFinal.dll
-C:\Users\flors\source\repos\Sanchez.MariaFlorencia.2A.TPFinal\Sanchez.MariaFlorencia.2A.TPFinal\bin\x64\Debug\Sanchez.MariaFlorencia.2A.TPFinal.pdb
-C:\Users\flors\source\repos\Sanchez.MariaFlorencia.2A.TPFinal\Sanchez.MariaFlorencia.2A.TPFinal\obj\x64\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\flors\source\repos\Sanchez.MariaFlorencia.2A.TPFinal\Sanchez.MariaFlorencia.2A.TPFinal\obj\x64\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\flors\source\repos\Sanchez.MariaFlorencia.2A.TPFinal\Sanchez.MariaFlorencia.2A.TPFinal\obj\x64\Debug\Sanchez.MariaFlorencia.2A.TPFinal.dll
-C:\Users\flors\source\repos\Sanchez.MariaFlorencia.2A.TPFinal\Sanchez.MariaFlorencia.2A.TPFinal\obj\x64\Debug\Sanchez.MariaFlorencia.2A.TPFinal.pdb
